@@ -16,13 +16,7 @@
 
 ---
 
-<details open>
- <summary> 📈 <b>Some Numbers</b>: </summary>
-
-<br>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaspignatelli&hide_langs_below=1&line_height=27&layout=compact"    alt="nicholaspignatelli's Most Used Language"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholaspignatelli&count_private=true&show_icons=true&include_all_commits=true&line_height=21" alt="nicholaspignatelli's Github Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholaspignatelli&count_private=true&show_icons=true&include_all_commits=true&line_height=27" alt="nicholaspignatelli's Github Stats"/>
 </p>
-</details>  
