@@ -8,7 +8,7 @@
 
 [<img src="https://img.shields.io/badge/email-%231877F2.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:nickpignatelli@icloud.com) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nickpignatelli/)
-[![Visits Badge](https://badges.pufler.dev/visits/patricklinpl/patricklinpl?style=for-the-badge)](https://github.com/nicholaspignatelli/nicholaspignatelli)
+[![Visits Badge](https://badges.pufler.dev/visits/nicholaspignatelli/nicholaspignatelli?style=for-the-badge)](https://github.com/nicholaspignatelli/nicholaspignatelli)
 
 </p>
 
