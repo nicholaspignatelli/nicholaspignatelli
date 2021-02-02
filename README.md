@@ -1,5 +1,5 @@
-## Hey,&nbsp;&nbsp;thanks for stopping by!
- <p align="right" style="font-size: 10em">★</p>
+## Hey,&nbsp;&nbsp;thanks for stopping by!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <p align="right" style="font-size: 48px; line-height: 0;">★</p>
 
  I’m a pragmatic software engineer who loves to build quickly, and thrives in a collaborative environment. 
 
@@ -8,12 +8,12 @@
   * _But_ I currently have more of an appetite for work on the front-end, especially React with React Hooks + CSSinJS
   * Grew up on Test-Driven Development 😇
 
-🎓 Student with a [Bachelor of Computing](https://www.uoguelph.ca/registrar/calendars/undergraduate/current/c10/c10bcomp.shtml) studying at the [University of Guelph](https://www.uoguelph.ca)
+##### 🎓 Student with a [Bachelor of Computing](https://www.uoguelph.ca/registrar/calendars/undergraduate/current/c10/c10bcomp.shtml) studying at the [University of Guelph](https://www.uoguelph.ca)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnicholaspignatelli%2Fnicholaspignatelli&count_bg=%234600D7&title_bg=%234600D7&icon=&icon_color=%23FFFF49&title=hits&edge_flat=false)
 
-<details open>
-<summary>🤝 <b>To connect with me:</b></summary>
+
+##### 🤝 <b>To connect with me:</b></summary>
 
 <p align = "center">
 
