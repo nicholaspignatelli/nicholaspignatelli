@@ -1,4 +1,4 @@
-## Hi there👋, call me Nick 
+## Hey,&nbsp;&nbsp;thanks for stopping by!
  <p align="right" style="font-size: 10em">★</p>
 
  I’m a pragmatic software engineer who loves to build quickly, and thrives in a collaborative environment. 
@@ -17,7 +17,7 @@
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/email-%231877F2.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:nickpignatelli@icloud.com) 
+[<img src="https://img.shields.io/badge/email-%231877F2.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:nickpignatelli@icloud.com)&nbsp;&nbsp;&nbsp; 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nickpignatelli/)
 
 </p>
