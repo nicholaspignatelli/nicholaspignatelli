@@ -3,8 +3,8 @@
 I’m a pragmatic software engineer who loves to build quickly, and thrives in a collaborative environment. 
 
   * Enjoys working everywhere on the stack, but more experiecned with backend
-    * microservice development in an OOP context.
-  * _But_ I currently have more of an appetite for work on the front-end!
+    * mainly microservice development for execution on the JVM (Kotlin, Java, [Vert.x](https://vertx.io)) 
+  * _But_ I currently have more of an appetite for work on the front-end, especially React with React Hooks + CSS in JS (stlyed-components)
   * Grew up on Test-Driven Development 😇
 
 🎓 Student with a [Bachelor of Computing](https://www.uoguelph.ca/registrar/calendars/undergraduate/current/c10/c10bcomp.shtml) studying at the [University of Guelph](https://www.uoguelph.ca)
