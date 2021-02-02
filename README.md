@@ -7,8 +7,7 @@ I’m a pragmatic software engineer who loves to build quickly, and thrives in a
     * _but_ I currently have more of an appetite for the front-end!
   * Grew up on Test-Driven Development
 
-
-<p> 🎓 Student with a [Bachelor of Computing](https://www.uoguelph.ca/registrar/calendars/undergraduate/current/c10/c10bcomp.shtml) studying at the [University of Guelph](https://www.uoguelph.ca)</p>
+🎓 Student with a [Bachelor of Computing](https://www.uoguelph.ca/registrar/calendars/undergraduate/current/c10/c10bcomp.shtml) studying at the [University of Guelph](https://www.uoguelph.ca)
 
 
 <img align='right' src='https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif' width='200'>
@@ -35,6 +34,6 @@ I’m a pragmatic software engineer who loves to build quickly, and thrives in a
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaspignatelli&hide_langs_below=1&line_height=27&layout=compact"    alt="nicholaspignatelli's Most Used Language"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaspignatelli&hide_langs_below=0&line_height=27"    alt="nicholaspignatelli's Most Used Language"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholaspignatelli&count_private=true&show_icons=true&include_all_commits=true&line_height=21" alt="nicholaspignatelli's Github Stats"/>
 </p>
