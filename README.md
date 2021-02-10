@@ -1,7 +1,6 @@
 ## Hey,&nbsp;&nbsp;thanks for stopping by!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <p align="right" style="font-size: 48px; line-height: 0;">★</p>
 
- I’m a pragmatic software engineer who loves to build quickly, and thrives in a collaborative environment. 
+##### I’m a pragmatic software engineer who loves to build quickly, and thrives in a collaborative environment. 
 
 ##### 🎓 Student with a [Bachelor of Computing](https://www.uoguelph.ca/registrar/calendars/undergraduate/current/c10/c10bcomp.shtml) studying at the [University of Guelph](https://www.uoguelph.ca)
 
