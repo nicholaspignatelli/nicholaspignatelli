@@ -12,3 +12,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nickpignatelli/)
 
 </p>
+
+## https://nicks.rodeo
+
+## [Resume](https://drive.google.com/file/d/11KRzub3VWVhWy7lbSBU3zD8dB_fWhxhF/view?usp=sharing)
