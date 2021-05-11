@@ -4,9 +4,6 @@
 
 ##### 🎓 Student with a [Bachelor of Computing](https://www.uoguelph.ca/registrar/calendars/undergraduate/current/c10/c10bcomp.shtml) studying at the [University of Guelph](https://www.uoguelph.ca)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnicholaspignatelli%2Fnicholaspignatelli&count_bg=%234600D7&title_bg=%234600D7&icon=&icon_color=%23FFFF49&title=hits&edge_flat=false)
-
-
 ##### 🤝 <b>To connect with me:</b></summary>
 
 <p align = "center">
